@@ -20,3 +20,14 @@
 * [Array Removals](https://practice.geeksforgeeks.org/problems/array-removals/1)
 * [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/)
 * [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/description/)
+
+#### November 4, 2022
+* [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)
+* [Base Equivalence](https://practice.geeksforgeeks.org/problems/base-equivalence1022/1)
+
+#### November 5, 2022
+* [Grouping Of Numbers](https://practice.geeksforgeeks.org/problems/grouping-of-numbers0015/1)
+* [Letter Case Permutations](https://leetcode.com/problems/letter-case-permutation/description/)
+* [Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/description/)
+* [Falling Squares](https://leetcode.com/problems/falling-squares/description/)
+* [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/)
