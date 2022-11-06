@@ -31,3 +31,8 @@
 * [Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/description/)
 * [Falling Squares](https://leetcode.com/problems/falling-squares/description/)
 * [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/)
+
+#### November 6, 2022
+* [Minimum number of Coins](https://practice.geeksforgeeks.org/problems/-minimum-number-of-coins4426/1)
+* [Orderly Queue](https://leetcode.com/problems/orderly-queue/)
+* [RLE Iterator](https://leetcode.com/problems/rle-iterator/description/)
