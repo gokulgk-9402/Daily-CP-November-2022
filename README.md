@@ -36,3 +36,10 @@
 * [Minimum number of Coins](https://practice.geeksforgeeks.org/problems/-minimum-number-of-coins4426/1)
 * [Orderly Queue](https://leetcode.com/problems/orderly-queue/)
 * [RLE Iterator](https://leetcode.com/problems/rle-iterator/description/)
+
+#### November 7, 2022
+* [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/description/)
+* [Floyd Warshall](https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1)
+* [Online Stock Span](https://leetcode.com/problems/online-stock-span/)
+* [Minimum Operations to Convert Number](https://leetcode.com/problems/minimum-operations-to-convert-number/description/)
+* [Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/description/)
