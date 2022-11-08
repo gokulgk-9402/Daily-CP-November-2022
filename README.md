@@ -43,3 +43,9 @@
 * [Online Stock Span](https://leetcode.com/problems/online-stock-span/)
 * [Minimum Operations to Convert Number](https://leetcode.com/problems/minimum-operations-to-convert-number/description/)
 * [Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/description/)
+
+#### November 8, 2022
+* [Two numbers with odd occurrences](https://practice.geeksforgeeks.org/problems/two-numbers-with-odd-occurrences5846/1)
+* [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/description/)
+* [Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/description/)
+* [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/)
