@@ -49,3 +49,9 @@
 * [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/description/)
 * [Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/description/)
 * [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/)
+
+#### Novemebr 9, 2022
+* [Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/description/)
+* [Minimum Sum Partition](https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1)
+* [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/description/)
+* [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
