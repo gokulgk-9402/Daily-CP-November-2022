@@ -55,3 +55,8 @@
 * [Minimum Sum Partition](https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1)
 * [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/description/)
 * [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
+
+#### November 10, 2022
+* [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)
+* [Jumping Numbers](https://practice.geeksforgeeks.org/problems/jumping-numbers3805/1)
+* [Count ways to reach the n'th stair](https://practice.geeksforgeeks.org/problems/count-ways-to-reach-the-nth-stair-1587115620/1)
