@@ -60,3 +60,10 @@
 * [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)
 * [Jumping Numbers](https://practice.geeksforgeeks.org/problems/jumping-numbers3805/1)
 * [Count ways to reach the n'th stair](https://practice.geeksforgeeks.org/problems/count-ways-to-reach-the-nth-stair-1587115620/1)
+
+#### November 11, 2022
+* [Prime Sum](https://practice.geeksforgeeks.org/problems/primes-sum5827/1)
+* [Fix Names In a Table](https://leetcode.com/problems/fix-names-in-a-table/description/)
+* [Arithmetic subarrays](https://leetcode.com/problems/arithmetic-subarrays/description/)
+* [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)
+* [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/)
