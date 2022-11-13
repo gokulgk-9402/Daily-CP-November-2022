@@ -67,3 +67,11 @@
 * [Arithmetic subarrays](https://leetcode.com/problems/arithmetic-subarrays/description/)
 * [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)
 * [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/)
+
+#### November 12, 2022
+* [Longest subarray with sum divisible by K](https://practice.geeksforgeeks.org/problems/longest-subarray-with-sum-divisible-by-k1259/1)
+* [Largest subarray of 0's and 1's](https://practice.geeksforgeeks.org/problems/largest-subarray-of-0s-and-1s/1)
+* [Longest Span in 2 binary arrays](https://practice.geeksforgeeks.org/problems/longest-span-with-same-sum-in-two-binary-arrays5142/1)
+* [Max sum subarray of size K](https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1)
+* [Odd Even Problem](https://practice.geeksforgeeks.org/problems/help-nobita0532/1)
+
