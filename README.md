@@ -75,3 +75,9 @@
 * [Max sum subarray of size K](https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1)
 * [Odd Even Problem](https://practice.geeksforgeeks.org/problems/help-nobita0532/1)
 
+#### November 13, 2022
+* [Maximum Sub-String after at most K changes](https://practice.geeksforgeeks.org/problems/maximum-sub-string-after-at-most-k-changes3220/1)
+* [Fill Up buckets](https://practice.geeksforgeeks.org/problems/fill-up-buckets3500/1)
+* [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)
+* [Winner of an Election](https://practice.geeksforgeeks.org/problems/winner-of-an-election-where-votes-are-represented-as-candidate-names-1587115621/1)
+* [Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/)
