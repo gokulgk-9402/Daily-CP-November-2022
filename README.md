@@ -81,3 +81,10 @@
 * [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)
 * [Winner of an Election](https://practice.geeksforgeeks.org/problems/winner-of-an-election-where-votes-are-represented-as-candidate-names-1587115621/1)
 * [Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/)
+
+#### November 14, 2022
+* [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/description/)
+* [Find Patterns](https://practice.geeksforgeeks.org/problems/find-patterns0606/1)
+* [Can I win](https://leetcode.com/problems/can-i-win/description/)
+* [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)
+* [Minimum Number of Moves to Make Palindrome](https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/description/)
