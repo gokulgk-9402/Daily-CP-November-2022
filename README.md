@@ -88,3 +88,16 @@
 * [Can I win](https://leetcode.com/problems/can-i-win/description/)
 * [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)
 * [Minimum Number of Moves to Make Palindrome](https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/description/)
+
+#### November 15, 2022
+* [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/)
+* [Longest Perfect Piece](https://practice.geeksforgeeks.org/problems/close-to-perfection1525/1)
+* [Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/description/)
+* [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/description/)
+* [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+* [Largest Fibonacci Subsequence](https://practice.geeksforgeeks.org/problems/largest-fibonacci-subsequence2206/1)
+* [The Painter's Partition Problem-II](https://practice.geeksforgeeks.org/problems/the-painters-partition-problem1535/1)
+* [Largest Divisible Set](https://leetcode.com/problems/largest-divisible-subset/description/)
+
+#### November 16, 2022
+* [Distribute Repeating Integers](https://leetcode.com/problems/distribute-repeating-integers/)
