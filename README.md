@@ -101,3 +101,7 @@
 
 #### November 16, 2022
 * [Distribute Repeating Integers](https://leetcode.com/problems/distribute-repeating-integers/)
+* [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/)
+* [Sum of beauty of all substrings](https://practice.geeksforgeeks.org/problems/sum-of-beauty-of-all-substrings-1662962118/1)
+* [Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/description/)
+* [Reverse Odd Levels of binary tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/description/)
