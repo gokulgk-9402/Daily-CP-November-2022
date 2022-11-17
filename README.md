@@ -105,3 +105,10 @@
 * [Sum of beauty of all substrings](https://practice.geeksforgeeks.org/problems/sum-of-beauty-of-all-substrings-1662962118/1)
 * [Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/description/)
 * [Reverse Odd Levels of binary tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/description/)
+
+#### November 17, 2022
+* [Rectangle Area](https://leetcode.com/problems/rectangle-area/description/)
+* [Count of Subarrays](https://practice.geeksforgeeks.org/problems/count-of-subarrays5922/1)
+* [Maximum Number of Robots Within Budget](https://leetcode.com/problems/maximum-number-of-robots-within-budget/description/)
+* [Stamping the Grid](https://leetcode.com/problems/stamping-the-grid/)
+* 
