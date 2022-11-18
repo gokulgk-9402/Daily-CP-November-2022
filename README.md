@@ -110,5 +110,11 @@
 * [Rectangle Area](https://leetcode.com/problems/rectangle-area/description/)
 * [Count of Subarrays](https://practice.geeksforgeeks.org/problems/count-of-subarrays5922/1)
 * [Maximum Number of Robots Within Budget](https://leetcode.com/problems/maximum-number-of-robots-within-budget/description/)
+
+#### November 18, 2022
+* [Number Of Open Doors](https://practice.geeksforgeeks.org/problems/number-of-open-doors1552/1)
+* [Insert into Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/)
+* [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/description/)
+
+#### November 19, 2022
 * [Stamping the Grid](https://leetcode.com/problems/stamping-the-grid/)
-* 
