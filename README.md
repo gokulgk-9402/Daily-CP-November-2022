@@ -118,3 +118,7 @@
 
 #### November 19, 2022
 * [Stamping the Grid](https://leetcode.com/problems/stamping-the-grid/)
+* [Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product/description/)
+* [Check if all levels of two trees are anagrams or not](https://practice.geeksforgeeks.org/problems/check-if-all-levels-of-two-trees-are-anagrams-or-not/1)
+* [Erect the Fence](https://leetcode.com/problems/erect-the-fence/)
+* [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/description/)
