@@ -122,3 +122,12 @@
 * [Check if all levels of two trees are anagrams or not](https://practice.geeksforgeeks.org/problems/check-if-all-levels-of-two-trees-are-anagrams-or-not/1)
 * [Erect the Fence](https://leetcode.com/problems/erect-the-fence/)
 * [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/description/)
+
+#### November 20, 2022
+* [LCM Triplet](https://practice.geeksforgeeks.org/problems/lcm-triplet1501/1)
+* [Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/description/)
+
+#### November 21, 2022
+* [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/description/)
+* [Count Pairs Of Nodes](https://leetcode.com/problems/count-pairs-of-nodes/)
+* 
