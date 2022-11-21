@@ -130,4 +130,4 @@
 #### November 21, 2022
 * [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/description/)
 * [Count Pairs Of Nodes](https://leetcode.com/problems/count-pairs-of-nodes/)
-* 
+* [Unique Partitions](https://practice.geeksforgeeks.org/problems/unique-partitions1041/1)
