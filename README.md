@@ -136,4 +136,12 @@
 * [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)
 * [Magic Triplets](https://practice.geeksforgeeks.org/problems/magic-triplets4003/1)
 * [Capitalize The Title](https://leetcode.com/problems/capitalize-the-title/description/)
-* 
+
+#### November 23, 2022
+* [Max Sum LCM](https://practice.geeksforgeeks.org/problems/maximum-sum-lcm3025/1)
+* [Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/description/)
+* [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/)
+* [Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/description/)
+
+#### November 24, 2022
+* [Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/)
