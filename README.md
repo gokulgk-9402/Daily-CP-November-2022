@@ -131,3 +131,9 @@
 * [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/description/)
 * [Count Pairs Of Nodes](https://leetcode.com/problems/count-pairs-of-nodes/)
 * [Unique Partitions](https://practice.geeksforgeeks.org/problems/unique-partitions1041/1)
+
+#### November 22, 2022
+* [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)
+* [Magic Triplets](https://practice.geeksforgeeks.org/problems/magic-triplets4003/1)
+* [Capitalize The Title](https://leetcode.com/problems/capitalize-the-title/description/)
+* 
