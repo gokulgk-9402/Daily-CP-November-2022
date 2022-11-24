@@ -144,4 +144,7 @@
 * [Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/description/)
 
 #### November 24, 2022
+* [Longest Bitonic subsequence](https://practice.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1)
+
+#### November 25, 2022
 * [Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/)
