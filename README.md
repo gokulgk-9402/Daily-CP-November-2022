@@ -147,4 +147,6 @@
 * [Longest Bitonic subsequence](https://practice.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1)
 
 #### November 25, 2022
+* [Shreyansh and his bits](https://practice.geeksforgeeks.org/problems/shreyansh-and-his-bits1420/1)
+* [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/description/)
 * [Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/)
