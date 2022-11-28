@@ -150,3 +150,11 @@
 * [Shreyansh and his bits](https://practice.geeksforgeeks.org/problems/shreyansh-and-his-bits1420/1)
 * [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/description/)
 * [Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/)
+
+#### November 26, 2022
+* [Construct Binary Tree from String with bracket representation](https://practice.geeksforgeeks.org/problems/construct-binary-tree-from-string-with-bracket-representation/1)
+* [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
+
+#### November 27, 2022
+* [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/)
+* [Add Binary Strings](https://practice.geeksforgeeks.org/problems/add-binary-strings3805/1)
