@@ -158,3 +158,8 @@
 #### November 27, 2022
 * [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/)
 * [Add Binary Strings](https://practice.geeksforgeeks.org/problems/add-binary-strings3805/1)
+
+#### November 28, 2022
+* [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/description/)
+* [Maximum Sub Array](https://practice.geeksforgeeks.org/problems/maximum-sub-array5443/1)
+* [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/)
