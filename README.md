@@ -163,3 +163,10 @@
 * [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/description/)
 * [Maximum Sub Array](https://practice.geeksforgeeks.org/problems/maximum-sub-array5443/1)
 * [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/)
+
+#### November 29, 2022
+* [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/)
+* [Count the Number of Full Binary Trees](https://practice.geeksforgeeks.org/problems/count-the-number-of-full-binary-trees2525/1)
+* [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/description/)
+* [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/description/)
+* [Find Followers Count](https://leetcode.com/problems/find-followers-count/description/)
