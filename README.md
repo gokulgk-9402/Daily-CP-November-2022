@@ -170,3 +170,7 @@
 * [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/description/)
 * [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/description/)
 * [Find Followers Count](https://leetcode.com/problems/find-followers-count/description/)
+
+#### November 30, 2022
+* [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/description/)
+* [Reorder List](https://practice.geeksforgeeks.org/problems/reorder-list/1)
